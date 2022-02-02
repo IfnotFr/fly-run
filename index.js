@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const { spawn } = require('child_process')
 const chalk = require('chalk')
 const onExit = require('death')
