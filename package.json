@@ -1,6 +1,12 @@
 {
   "name": "@ifnot/fly-run",
-  "version": "1.0.0",
+  "bin": {
+    "fly-run": "./index.js"
+  },
+  "description": "Simple multiple process spawner and manager for developers.",
+  "homepage": "https://github.com/IfnotFr/fly-run",
+  "author": "Anael Favre <anael.favre@gmail.com> (https://github.com/IfnotFr)",
+  "version": "1.0.1",
   "main": "index.js",
   "license": "MIT",
   "dependencies": {

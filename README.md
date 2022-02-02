@@ -5,8 +5,8 @@ Simple multiple process spawner and manager for developers.
 ## Quick start
 
 **1. Install** the package globally with npm or yarn:
-  - `npm global install @ifnot/fly-run`
-  - (or) `yarn add -g @ifnot/fly-run`
+  - `npm install -g @ifnot/fly-run`
+  - (or) `yarn global add  @ifnot/fly-run`
 
 **2. Configure** it with a js/json file (example `/home/me/fly-run.conf.js`) :
 
@@ -24,7 +24,7 @@ module.exports = [
 ]
 ```
 
-**3. Run** with configuration file as second argument `fly-sync /home/me/fly-run.conf.js`
+**3. Run** with configuration file as second argument `fly-run /home/me/fly-run.conf.js`
 
 ## Commands
 
