@@ -5,7 +5,7 @@ const chalk = require('chalk')
 const onExit = require('death')
 const kill = require('tree-kill')
 const IOSplit = require('iosplit')
-const apps = require('./' + process.argv[2])
+const apps = require(process.argv[2])
 
 /*
  * Handle input commands and split the screen
