@@ -1,5 +1,5 @@
 {
-  "name": "fly-run",
+  "name": "@ifnot/fly-run",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
