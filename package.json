@@ -1,0 +1,12 @@
+{
+  "name": "dev-runner",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "death": "^1.1.0",
+    "iosplit": "^1.1.1",
+    "tree-kill": "^1.2.2"
+  }
+}
